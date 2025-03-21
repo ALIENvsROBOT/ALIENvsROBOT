@@ -1,15 +1,17 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=6E6E6E&center=true&vCenter=true&width=600&height=70&lines=ALIEN+vs+ROBOT" alt="ALIENvsROBOT" />
   <h2><span style="color:#8D8D8D">Where Human Ingenuity Meets Mechanical Precision</span></h2>
-  <h1>Gowtham Sridhar</h1>
 </div>
 
 <div align="center"> 
-  <img src="https://img.shields.io/badge/Role-HCI_Researcher_&_Scientist-5E5E5E?style=for-the-badge" alt="Role"/> 
-  <img src="https://img.shields.io/badge/Focus-Interactive_Computing-8D8D8D?style=for-the-badge" alt="Focus"/> 
-  <img src="https://img.shields.io/badge/Location-Vienna,%20Austria-A9A9A9?style=for-the-badge" alt="Location"/> 
+  <a href="#"><img src="https://img.shields.io/badge/Role-HCI_Researcher_&_Scientist-5c5c5c?style=for-the-badge&logo=researchgate&logoColor=white" alt="Role"/></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Focus-Interactive_Computing-7a7a7a?style=for-the-badge&logo=autodesk&logoColor=white" alt="Focus"/></a> 
+  <a href="#"><img src="https://img.shields.io/badge/Location-Vienna,%20Austria-9c9c9c?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a> 
 </div>
-<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
 <div align="center"><i>"Designing tomorrow's interactions at the intersection of humans and technology."</i></div>
 
@@ -20,24 +22,24 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="background-color:#4d4d4d; border-radius:10px; padding:10px;">
         <img src="https://img.shields.io/badge/Interaction_Design-4A4A4A?style=flat-square&logoColor=white" alt="Interaction Design"/>
         <br/>
         Creating meaningful, intuitive interfaces that prioritize human cognition and behavior patterns.
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="50%" style="background-color:#5a5a5a; border-radius:10px; padding:10px;">
         <img src="https://img.shields.io/badge/User_Research-626262?style=flat-square&logoColor=white" alt="User Research"/>
         <br/>
         Employing ethnographic methods and participatory design to deeply understand user needs.
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="background-color:#676767; border-radius:10px; padding:10px;">
         <img src="https://img.shields.io/badge/Cognitive_Psychology-7A7A7A?style=flat-square&logoColor=white" alt="Cognitive Psychology"/>
         <br/>
         Applying mental models and cognitive load theory to design more intuitive systems.
       </td>
-      <td align="center">
+      <td align="center" style="background-color:#747474; border-radius:10px; padding:10px;">
         <img src="https://img.shields.io/badge/Embodied_Interaction-929292?style=flat-square&logoColor=white" alt="Embodied Interaction"/>
         <br/>
         Designing systems that leverage natural human body movements and spatial awareness.
@@ -70,15 +72,42 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 ## 🛠️ Technical Expertise
 
 <div align="center">
-
-| Human-Centered Design | Interaction Technologies | Development | Research Methods |
-|:---------------------:|:------------------------:|:-----------:|:----------------:|
-| UX Research | XR (VR/AR/MR) | Python | User Studies |
-| Interaction Design | Computer Vision | C/C++ | Eye Tracking |
-| Prototyping | Tangible Interfaces | Unity/Unreal | Qualitative Analysis |
-| Information Architecture | LLMs & AI Systems | Hardware Prototyping | Mixed Methods Research |
-| Mental Models | Robotics (ROS) | Linux/Git | Ethnography |
-
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 10px;">
+    <tr>
+      <td align="center" bgcolor="#484848" style="border-radius:8px; padding:10px;">
+        <b>Human-Centered Design</b><br>
+        UX Research<br>
+        Interaction Design<br>
+        Prototyping<br>
+        Information Architecture<br>
+        Mental Models
+      </td>
+      <td align="center" bgcolor="#585858" style="border-radius:8px; padding:10px;">
+        <b>Interaction Technologies</b><br>
+        XR (VR/AR/MR)<br>
+        Computer Vision<br>
+        Tangible Interfaces<br>
+        LLMs & AI Systems<br>
+        Robotics (ROS)
+      </td>
+      <td align="center" bgcolor="#686868" style="border-radius:8px; padding:10px;">
+        <b>Development</b><br>
+        Python<br>
+        C/C++<br>
+        Unity/Unreal<br>
+        Hardware Prototyping<br>
+        Linux/Git
+      </td>
+      <td align="center" bgcolor="#787878" style="border-radius:8px; padding:10px;">
+        <b>Research Methods</b><br>
+        User Studies<br>
+        Eye Tracking<br>
+        Qualitative Analysis<br>
+        Mixed Methods Research<br>
+        Ethnography
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🔬 Professional Experience
@@ -120,18 +149,18 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" bgcolor="#505050" style="border-radius:8px; padding:10px;">
         🏆 <b>Best Paper Award</b><br>"Novel Interaction Techniques for Robotic Systems" (IVCRAISE 2020)
       </td>
-      <td align="center">
+      <td align="center" bgcolor="#606060" style="border-radius:8px; padding:10px;">
         🧠 <b>EMG-Based Interactions</b><br>Natural control systems for robotic manipulators
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" bgcolor="#707070" style="border-radius:8px; padding:10px;">
         📊 <b>Tangible Dashboard Interfaces</b><br>Industrial automation visualization in Industry 4.0
       </td>
-      <td align="center">
+      <td align="center" bgcolor="#808080" style="border-radius:8px; padding:10px;">
         🗺️ <b>Multimodal Exploration System</b><br>Human-centered robotic navigation using tri-layered mapping
       </td>
     </tr>
@@ -141,7 +170,7 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 ## 💻 GitHub Contributions as ALIENvsROBOT
 
 <div align="center">
-  <div style="background-color:#404040; padding:10px; border-radius:6px; margin-bottom:10px;">
+  <div style="background-color:#404040; padding:15px; border-radius:10px; margin-bottom:20px; border: 1px solid #505050;">
     <h3>🔒 Active in 15+ Private Repositories</h3>
     <p>Contributing to numerous private projects spanning HCI research, prototype development, and experimental interaction systems</p>
   </div>
@@ -161,21 +190,21 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#5E5E5E">
+      <td align="center" style="background-color:#5E5E5E; border-radius:8px; padding:10px;">
         <b>Human-First Design</b><br>
         Prioritizing human needs, capabilities, and cognitive patterns before technological constraints
       </td>
-      <td align="center" bgcolor="#6E6E6E">
+      <td align="center" style="background-color:#6E6E6E; border-radius:8px; padding:10px;">
         <b>Iterative Prototyping</b><br>
         Rapid development cycles with continuous user feedback to refine interactions
       </td>
     </tr>
     <tr>
-      <td align="center" bgcolor="#7A7A7A">
+      <td align="center" style="background-color:#7A7A7A; border-radius:8px; padding:10px;">
         <b>Embodied Cognition</b><br>
         Designing for how humans naturally perceive and interact with their physical environment
       </td>
-      <td align="center" bgcolor="#8A8A8A">
+      <td align="center" style="background-color:#8A8A8A; border-radius:8px; padding:10px;">
         <b>Contextual Inquiry</b><br>
         Understanding technology use in real-world contexts rather than controlled environments
       </td>
@@ -197,5 +226,5 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=800&height=60&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" />
 </div>
