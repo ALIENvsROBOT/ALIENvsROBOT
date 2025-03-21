@@ -183,14 +183,42 @@ I explore how humans interact with emerging technologies to create intuitive, ac
     <p style="color:#f7e8d3">Contributing to numerous private projects spanning HCI research, prototype development, and experimental interaction systems</p>
   </div>
   
+  <!-- Full contribution calendar (all time) -->
+  <img src="https://ghchart.rshah.org/137dc5/ALIENvsROBOT" alt="ALIENvsROBOT's GitHub Contribution Chart" width="100%" />
+  
+  <!-- Enhanced contribution details with expanded time range -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALIENvsROBOT&theme=nord_dark" alt="Contribution Graph" />
   <br><br>
+  
+  <!-- Extended stats view -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ALIENvsROBOT&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIENvsROBOT&theme=nord&hide_border=true" height="180" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ALIENvsROBOT&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&disable_animations=false" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIENvsROBOT&theme=nord&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Streak" />
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIENvsROBOT&theme=nord&hide_border=true&radius=8" width="85%" alt="Activity Graph" />
+  
+  <!-- Extended contribution graph with long-term visualization -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIENvsROBOT&theme=nord&hide_border=true&radius=8&area=true&custom_title=Long-Term%20Contribution%20Activity" width="95%" alt="Activity Graph" />
+  
+  <!-- Contribution statistics by language and repository -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALIENvsROBOT&theme=nord_dark" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALIENvsROBOT&theme=nord_dark" width="45%" />
+  </div>
+  <br>
+  
+  <!-- Productive time visualization -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ALIENvsROBOT&theme=nord_dark&utcOffset=1" width="45%" />
+  
+  <!-- Additional metrics about contribution patterns -->
+  <div style="background-color:#137dc5; padding:15px; border-radius:10px; margin-top:20px; border: 1px solid #112d4e;">
+    <h3 style="color:#f7e8d3">📊 Contribution Metrics</h3>
+    <p style="color:#f7e8d3">
+      Long-term contributor with consistent activity across multiple domains<br>
+      Peak activity periods in research-intensive project phases<br>
+      Specialized in quality over quantity with high-impact contributions
+    </p>
+  </div>
 </div>
 
 ## <span style="color:#b17a50">🧩 HCI Philosophy & Approach</span>
