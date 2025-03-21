@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=137dc5&center=true&vCenter=true&width=600&height=70&lines=Gowtham+Sridhar" alt="GowthamSridhar" />
-  <h2><span style="color:#b17a50">Where Human Ingenuity Meets Mechanical Precision</span></h2>
+  <h2><span>Where Human Ingenuity Meets Mechanical Precision</span></h2>
 </div>
 
 <div align="center"> 
@@ -9,62 +9,75 @@
   <a href="#"><img src="https://img.shields.io/badge/Location-Vienna,%20Austria-00cfc8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a> 
 </div>
 
+
 <!-- New animated banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Technology Banner">
 </div>
-
-<div align="center"><i style="color:#c99383">"Designing tomorrow's interactions at the intersection of humans and technology."</i></div>
 
 <!-- New animated divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## <span style="color:#bf1922">🧠 Human-Computer Interaction Specialist</span>
+<div align="center" style="font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-size: 24px;">
+	"Designing tomorrow's interactions at the intersection of humans and technology."
+</div>
 
-I explore how humans interact with emerging technologies to create intuitive, accessible, and meaningful experiences. My research bridges the gap between people and complex systems through innovative interaction design.
+<!-- New animated divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+## 🧠 Human-Computer Interaction Specialist
+
+<div align="center" style="font-family: 'Playfair Display', Georgia, serif; font-size: 20px; color: #333;">
+	Exploring the nexus of human experience and emerging tech, crafting intuitive, accessible, and profoundly meaningful interactions. My research endeavors bridge the divide between humanity and intricate systems through groundbreaking interaction paradigms.
+</div>
 
 <!-- New animated element -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 </div>
 
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="background-color:#112d4e; border-radius:10px; padding:10px;">
-        <img src="https://img.shields.io/badge/Interaction_Design-137dc5?style=flat-square&logoColor=white" alt="Interaction Design"/>
-        <br/>
-        <span style="color:#f7e8d3">Creating meaningful, intuitive interfaces that prioritize human cognition and behavior patterns.</span>
-      </td>
-      <td align="center" width="50%" style="background-color:#137dc5; border-radius:10px; padding:10px;">
-        <img src="https://img.shields.io/badge/User_Research-112d4e?style=flat-square&logoColor=white" alt="User Research"/>
-        <br/>
-        <span style="color:#f7e8d3">Employing ethnographic methods and participatory design to deeply understand user needs.</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="background-color:#00cfc8; border-radius:10px; padding:10px;">
-        <img src="https://img.shields.io/badge/Cognitive_Psychology-112d4e?style=flat-square&logoColor=white" alt="Cognitive Psychology"/>
-        <br/>
-        <span style="color:#112d4e">Applying mental models and cognitive load theory to design more intuitive systems.</span>
-      </td>
-      <td align="center" style="background-color:#b17a50; border-radius:10px; padding:10px;">
-        <img src="https://img.shields.io/badge/Embodied_Interaction-112d4e?style=flat-square&logoColor=white" alt="Embodied Interaction"/>
-        <br/>
-        <span style="color:#f7e8d3">Designing systems that leverage natural human body movements and spatial awareness.</span>
-      </td>
-    </tr>
-  </table>
+	<table>
+		<tr>
+			<td align="center" width="50%">
+				<img src="https://img.shields.io/badge/Interaction_Design-00cfc8?style=flat-square&logoColor=white" alt="Interaction Design"/>
+				<br/>
+				<span>Creating meaningful, intuitive interfaces that prioritize human cognition and behavior patterns.</span>
+			</td>
+			<td align="center" width="50%">
+				<img src="https://img.shields.io/badge/User_Research-b17a50?style=flat-square&logoColor=white" alt="User Research"/>
+				<br/>
+				<span>Employing ethnographic methods and participatory design to deeply understand user needs.</span>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="https://img.shields.io/badge/Cognitive_Psychology-bf1922?style=flat-square&logoColor=white" alt="Cognitive Psychology"/>
+				<br/>
+				<span>Applying mental models and cognitive load theory to design more intuitive systems.</span>
+			</td>
+			<td align="center">
+				<img src="https://img.shields.io/badge/Embodied_Interaction-137dc5?style=flat-square&logoColor=white" alt="Embodied Interaction"/>
+				<br/>
+				<span>Designing systems that leverage natural human body movements and spatial awareness.</span>
+			</td>
+		</tr>
+	</table>
 </div>
+
 
 <!-- New animated element for research areas -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="120" alt="Research">
 </div>
 
-### <span style="color:#137dc5">🔬 HCI Research Focus Areas</span>
+### 🔬 HCI Research Focus Areas
+
 - **Multimodal Interactive Systems** - Reality User Interfaces, Gaze & Gesture Integration
 - **Tangible & Embodied Interaction** - Physical Computing, Spatial Interfaces
 - **XR Experience Design** - VR/AR/MR Research Prototypes
@@ -88,7 +101,7 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
 </div>
 
-## <span style="color:#00cfc8">🎓 Education & Background</span>
+## 🎓 Education & Background
 
 <!-- New animated education icon -->
 <div align="center">
@@ -96,97 +109,86 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 </div>
 
 - **Master of Science in Human-Computer Interaction** (Joint Degree)
-  - **Paris Lodron Universität Salzburg & Fachhochschule Salzburg** (September 2022 - February 2025)
-  - Focus on tangible interfaces and spatial computing
+	- **Paris Lodron Universität Salzburg & Fachhochschule Salzburg** (September 2022 - February 2025)
+	- Focus on tangible interfaces and spatial computing
  
 - **Bachelor of Technology in Mechatronics Engineering** (Robotics) from Hindustan University (July 2017 - April 2021)
-  - Specialized in robotic systems, control theory, and human-machine interfaces
-  - Senior project: <span style="color:#b17a50">EMG-Based Control of a 5 DOF Robotic Manipulator</span>
+	- Specialized in robotic systems, control theory, and human-machine interfaces
+	- Senior project: **EMG-Based Control of a 5 DOF Robotic Manipulator**
 
 <!-- New animated divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-603in1cfb-edad-4e33-a676-f2a7d49252f9.gif" width="600">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
 </div>
 
-## <span style="color:#ffc93c">🛠️ Technical Expertise</span>
+## 🛠️ Technical Expertise
 
 <!-- New animated technical icon -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="400">
+  
 </div>
 
+
+## 🛠️ Skills & Expertise
+
+### Interaction Design
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 10px;">
-    <tr>
-      <td align="center" bgcolor="#112d4e" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#fce38a">Interaction Design</b><br>
-        <span style="color:#f7e8d3">
-        Human Computer Interaction<br>
-        UX Research<br>
-        Natural User Interface<br>
-        Tangible User Interface (TUI)<br>
-        User Interface Design
-        </span>
-      </td>
-      <td align="center" bgcolor="#137dc5" style="border-radius:8px; padding:10px; border: 1px solid #112d4e">
-        <b style="color:#f7e8d3">AI & Machine Learning</b><br>
-        <span style="color:#f7e8d3">
-        Large Language Models (LLM)<br>
-        TensorFlow<br>
-        Deep Learning<br>
-        Neural Networks<br>
-        AI Inferencing
-        </span>
-      </td>
-      <td align="center" bgcolor="#b17a50" style="border-radius:8px; padding:10px; border: 1px solid #c99383">
-        <b style="color:#f7e8d3">Development</b><br>
-        <span style="color:#f7e8d3">
-        Python<br>
-        C/C++<br>
-        Unity & Unreal Engine<br>
-        Linux<br>
-        OpenCV
-        </span>
-      </td>
-      <td align="center" bgcolor="#00cfc8" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#112d4e">Robotics & Systems</b><br>
-        <span style="color:#112d4e">
-        Robot Operating System (ROS)<br>
-        Human-Robot Interaction<br>
-        SOLIDWORKS<br>
-        Hardware Prototyping<br>
-        Computer Vision
-        </span>
-      </td>
-    </tr>
-  </table>
+  <a href="#"><img src="https://img.shields.io/badge/Human_Computer_Interaction-112d4e?style=for-the-badge&logoColor=white" alt="HCI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/UX_Research-112d4e?style=for-the-badge&logoColor=white" alt="UX Research"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Natural_User_Interface-112d4e?style=for-the-badge&logoColor=white" alt="NUI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tangible_User_Interface-112d4e?style=for-the-badge&logoColor=white" alt="TUI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/User_Interface_Design-112d4e?style=for-the-badge&logoColor=white" alt="UI Design"/></a>
 </div>
 
+### AI & Machine Learning
 <div align="center">
-  <div style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); margin:15px auto; padding:15px; border-radius:10px; max-width:800px;">
-    <h3 style="font-family:'Orbitron', sans-serif; color:#f7e8d3; margin:5px; letter-spacing:1.5px;">Other Skills & Expertise</h3>
-    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; padding:10px;">
-      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Automation</span>
-      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">n8n</span>
-      <span style="background:#b17a50; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Brain-computer Interfaces</span>
-      <span style="background:#112d4e; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Virtual Reality (VR)</span>
-      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Data Science</span>
-      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Intelligent Systems</span>
-      <span style="background:#137dc5; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">webots</span>
-      <span style="background:#b17a50; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Leadership</span>
-      <span style="background:#112d4e; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">PLC Ladder Logic</span>
-      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Technological Innovation</span>
-      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Entrepreneurship</span>
-    </div>
-  </div>
+  <a href="#"><img src="https://img.shields.io/badge/Large_Language_Models-137dc5?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-137dc5?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deep_Learning-137dc5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Neural_Networks-137dc5?style=for-the-badge&logo=pytorch&logoColor=white" alt="Neural Networks"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Inferencing-137dc5?style=for-the-badge&logoColor=white" alt="AI Inferencing"/></a>
 </div>
+
+### Development
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Python-b17a50?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%2FC%2B%2B-b17a50?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Unity-b17a50?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Unreal_Engine-b17a50?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-b17a50?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-b17a50?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+</div>
+
+### Robotics & Systems
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/ROS-00cfc8?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Human--Robot_Interaction-00cfc8?style=for-the-badge&logoColor=white" alt="Human-Robot Interaction"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SOLIDWORKS-00cfc8?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hardware_Prototyping-00cfc8?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware Prototyping"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-00cfc8?style=for-the-badge&logoColor=white" alt="Computer Vision"/></a>
+</div>
+
+### Additional Expertise
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Automation-bf1922?style=for-the-badge&logoColor=white" alt="Automation"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/n8n-bf1922?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Brain--computer_Interfaces-bf1922?style=for-the-badge&logoColor=white" alt="BCI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Virtual_Reality-bf1922?style=for-the-badge&logo=oculus&logoColor=white" alt="VR"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Data_Science-bf1922?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Intelligent_Systems-bf1922?style=for-the-badge&logoColor=white" alt="Intelligent Systems"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/webots-bf1922?style=for-the-badge&logoColor=white" alt="webots"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PLC_Ladder_Logic-bf1922?style=for-the-badge&logoColor=white" alt="PLC"/></a>
+</div>
+
 
 <!-- New animated robot -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## <span style="color:#bf1922">🔬 Professional Experience</span>
+
+## 🔬 Professional Experience
 
 <!-- New animated work icon -->
 <div align="center">
@@ -194,10 +196,10 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 </div>
 
 <details open>
-  <summary style="color:#137dc5; cursor:pointer"><b>🧪 AIT Austrian Institute of Technology GmbH</b> - Junior Scientist (Oct 2023 - Present)</summary>
+  <summary><b>🧪 AIT Austrian Institute of Technology GmbH</b> - Junior Scientist (Oct 2023 - Present)</summary>
   <br>
-  <div style="padding-left:20px; border-left:3px solid #137dc5;">
-    <p style="color:#f7e8d3; background:#112d4e; padding:10px; border-radius:5px;">"Have you ever wondered how future technology would look like? Stop wondering, together let's make it happen."</p>
+  <div>
+    <p>"Have you ever wondered how future technology would look like? Stop wondering, together let's make it happen."</p>
     <ul>
       <li>Creating XR prototypes for Reality User Interface (RUI) with gaze integration</li>
       <li>Setting up and optimizing LLMs locally on the server</li>
@@ -208,7 +210,7 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 </details>
 
 <details>
-  <summary style="color:#137dc5; cursor:pointer"><b>🔍 Salzburg Research</b> - Junior Researcher (Apr 2022 - May 2023)</summary>
+  <summary><b>🔍 Salzburg Research</b> - Junior Researcher (Apr 2022 - May 2023)</summary>
   <br>
   <ul>
     <li>Improved navigation systems for autonomous robots</li>
@@ -220,7 +222,7 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 </details>
 
 <details>
-  <summary style="color:#137dc5; cursor:pointer"><b>🤖 e-Yantra, IIT Bombay</b> - Research Intern (May 2021 - Jul 2021)</summary>
+  <summary><b>🤖 e-Yantra, IIT Bombay</b> - Research Intern (May 2021 - Jul 2021)</summary>
   <br>
   <ul>
     <li>Designed and developed Robot Soccer project using webots and ROS</li>
@@ -230,68 +232,63 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </ul>
 </details>
 
-<!-- New animated publication icon -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235234567-animated-book.gif" width="300" alt="Publications Icon">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
 </div>
 
-## <span style="color:#ffc93c">📚 Publications & Projects</span>
+
+## 📚 Publications & Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#112d4e" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <span style="color:#facf39">🏆</span> <b style="color:#f7e8d3">Best Paper Award IVCRAISE 2020</b><br><span style="color:#00cfc8">"EMG-Based Control of a 5 DOF Robotic Manipulator"</span>
+      <td align="center" bgcolor="#112d4e">
+        <span>🏆</span> <b>Best Paper Award IVCRAISE 2020</b><br><span>"EMG-Based Control of a 5 DOF Robotic Manipulator"</span>
       </td>
-      <td align="center" bgcolor="#137dc5" style="border-radius:8px; padding:10px; border: 1px solid #112d4e">
-        <span style="color:#fce38a">🏭</span> <b style="color:#f7e8d3">Industry 4.0 Research</b><br><span style="color:#f7e8d3">"Dynamic Dashboard and Mail Update for Robotic System in Industry 4.0"</span>
+      <td align="center" bgcolor="#137dc5">
+        <span>🏭</span> <b>Industry 4.0 Research</b><br><span>"Dynamic Dashboard and Mail Update for Robotic System in Industry 4.0"</span>
       </td>
     </tr>
     <tr>
-      <td align="center" bgcolor="#b17a50" style="border-radius:8px; padding:10px; border: 1px solid #c99383">
-        <span style="color:#fce38a">🤖</span> <b style="color:#f7e8d3">Autonomous Robotics</b><br><span style="color:#f7e8d3">"Simulation of Autonomous Multifunctional Mobile Robot using Machine Vision"</span>
+      <td align="center" bgcolor="#b17a50">
+        <span>🤖</span> <b>Autonomous Robotics</b><br><span>"Simulation of Autonomous Multifunctional Mobile Robot using Machine Vision"</span>
       </td>
-      <td align="center" bgcolor="#00cfc8" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <span style="color:#112d4e">🗺️</span> <b style="color:#112d4e">Exploration Systems</b><br><span style="color:#112d4e">"Autonomous Robotic Exploration and Navigation System using Trilayered Mapping and Geometrical Path Planning Techniques"</span>
+      <td align="center" bgcolor="#00cfc8">
+        <span>🗺️</span> <b>Exploration Systems</b><br><span>"Autonomous Robotic Exploration and Navigation System using Trilayered Mapping and Geometrical Path Planning Techniques"</span>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <div style="background-color:#112d4e; padding:15px; border-radius:10px; margin:20px 0; border: 1px solid #137dc5; max-width:800px;">
-    <h3 style="color:#00cfc8; font-family:'Orbitron', sans-serif;">🎓 Certifications & Specializations</h3>
-    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:15px 0;">
-      <span style="background:#137dc5; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">A Complete Reinforcement Learning System (Capstone)</span>
-      <span style="background:#b17a50; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">AI for Medicine Specialization</span>
-      <span style="background:#00cfc8; color:#112d4e; padding:8px 12px; border-radius:5px; font-size:14px;">Self-Driving Cars Specialization</span>
-      <span style="background:#bf1922; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">Mind of the Universe - Robots in Society</span>
-      <span style="background:#112d4e; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px; border:1px solid #137dc5;">Sports and Society</span>
+  <div>
+    <h3>🎓 Certifications & Specializations</h3>
+    <div>
+      <span>A Complete Reinforcement Learning System (Capstone)</span>
+      <span>AI for Medicine Specialization</span>
+      <span>Self-Driving Cars Specialization</span>
+      <span>Mind of the Universe - Robots in Society</span>
+      <span>Sports and Society</span>
     </div>
-    
-
-
-<!-- New animated GitHub icon -->
-<div align="center">
-  <img src="https://github.com/ALIENvsROBOT/assets/blob/main/github-icon.gif?raw=true" width="100" alt="GitHub">
+  </div>
 </div>
 
 
-## <span style="color:#137dc5">💻 GitHub Contributions as ALIENvsROBOT</span>
+## 💻 GitHub Contributions as ALIENvsROBOT
 
 <div align="center">
-  <div style="background-color:#112d4e; padding:15px; border-radius:10px; margin-bottom:20px; border: 1px solid #137dc5;">
-    <h3 style="color:#00cfc8">🔒 Active in 15+ Private Repositories</h3>
-    <p style="color:#f7e8d3">Contributing to numerous private projects spanning HCI research, prototype development, and experimental interaction systems</p>
+  <div>
+    <h3>🔒 Active in 45+ Private Repositories</h3>
+    <p>Contributing to numerous private projects spanning HCI research, prototype development, and experimental interaction systems</p>
   </div>
   
   <!-- New animated code typing element -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="1000">
   
   <!-- Full contribution calendar (all time) -->
   <img src="https://ghchart.rshah.org/137dc5/ALIENvsROBOT" alt="ALIENvsROBOT's GitHub Contribution Chart" width="100%" />
   
-  <!-- Enhanced contribution details with expanded time range -->
+  <!-- Enhanced contribution details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALIENvsROBOT&theme=nord_dark" alt="Contribution Graph" />
   <br><br>
   
@@ -302,10 +299,10 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </div>
   <br>
   
-  <!-- Extended contribution graph with long-term visualization -->
+  <!-- Extended contribution graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIENvsROBOT&theme=nord&hide_border=true&radius=8&area=true&custom_title=Long-Term%20Contribution%20Activity" width="95%" alt="Activity Graph" />
   
-  <!-- Contribution statistics by language and repository -->
+  <!-- Contribution statistics -->
   <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALIENvsROBOT&theme=nord_dark" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ALIENvsROBOT&theme=nord_dark" width="45%" />
@@ -315,10 +312,10 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <!-- Productive time visualization -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ALIENvsROBOT&theme=nord_dark&utcOffset=1" width="45%" />
   
-  <!-- Additional metrics about contribution patterns -->
-  <div style="background-color:#137dc5; padding:15px; border-radius:10px; margin-top:20px; border: 1px solid #112d4e;">
-    <h3 style="color:#f7e8d3">📊 Contribution Metrics</h3>
-    <p style="color:#f7e8d3">
+  <!-- Additional contribution metrics -->
+  <div>
+    <h3>📊 Contribution Metrics</h3>
+    <p>
       Long-term contributor with consistent activity across multiple domains<br>
       Peak activity periods in research-intensive project phases<br>
       Specialized in quality over quantity with high-impact contributions
@@ -331,105 +328,92 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## <span style="color:#b17a50">🧩 HCI Philosophy & Approach</span>
+## 🧩 HCI Philosophy & Approach
 
-<!-- New animated brain/thinking icon -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6c1d-b258-409f-b84b-69b7e5d8b45f.gif" width="200">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="background-color:#112d4e; border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#00cfc8">Human-First Design</b><br>
-        <span style="color:#f7e8d3">Prioritizing human needs, capabilities, and cognitive patterns before technological constraints</span>
+      <td align="center" bgcolor="#112d4e">
+        <b>Human-First Design</b><br>
+        <span>Prioritizing human needs, capabilities, and cognitive patterns before technological constraints</span>
       </td>
-      <td align="center" style="background-color:#137dc5; border-radius:8px; padding:10px; border: 1px solid #112d4e">
-        <b style="color:#fce38a">Iterative Prototyping</b><br>
-        <span style="color:#f7e8d3">Rapid development cycles with continuous user feedback to refine interactions</span>
+      <td align="center" bgcolor="#137dc5">
+        <b>Iterative Prototyping</b><br>
+        <span>Rapid development cycles with continuous user feedback to refine interactions</span>
       </td>
     </tr>
     <tr>
-      <td align="center" style="background-color:#b17a50; border-radius:8px; padding:10px; border: 1px solid #c99383">
-        <b style="color:#f7e8d3">Embodied Cognition</b><br>
-        <span style="color:#f7e8d3">Designing for how humans naturally perceive and interact with their physical environment</span>
+      <td align="center" bgcolor="#b17a50">
+        <b>Embodied Cognition</b><br>
+        <span>Designing for how humans naturally perceive and interact with their physical environment</span>
       </td>
-      <td align="center" style="background-color:#00cfc8; border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#112d4e">Contextual Inquiry</b><br>
-        <span style="color:#112d4e">Understanding technology use in real-world contexts rather than controlled environments</span>
+      <td align="center" bgcolor="#00cfc8">
+        <b>Contextual Inquiry</b><br>
+        <span>Understanding technology use in real-world contexts rather than controlled environments</span>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- New animated connectivity element -->
+
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8704f-2dca-4d4d-9e36-5b7c4d1d6360.gif" width="300">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="500">
 </div>
 
-## <span style="color:#bf1922; font-family:'Montserrat', sans-serif; font-weight:700; letter-spacing:1.5px; text-shadow:1px 1px 3px rgba(0,0,0,0.3);">🌐 Professional Connections</span>
+## 🌐 Professional Connections
 
 <!-- 3D HCI Visualization Element -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ALIENvsROBOT/3D-assets/blob/main/hci-interface-dark.gif?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ALIENvsROBOT/3D-assets/blob/main/hci-interface-light.gif?raw=true">
-    <img src="https://raw.githubusercontent.com/ScienceBoy/3D-UI-System-ThreeJS/master/images/3dui_demo.gif" width="650" alt="3D Human-Computer Interaction Interface" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
-  </picture>
-</div>
 
-<div align="center" style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); margin:20px auto; padding:25px; border-radius:15px; box-shadow:0 10px 20px rgba(0,0,0,0.2); max-width:900px;">
-  <h3 style="font-family:'Orbitron', sans-serif; color:#f7e8d3; margin-bottom:20px; letter-spacing:2px; font-weight:600;">Available for Research Collaborations & Consulting</h3>
-  
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px; margin-bottom:15px;">
-    <a href="mailto:gowtham.sridher5@gmail.com" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/Email-112d4e?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15); transform:translateY(0); transition:transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+
+<div align="center">
+  <h3>Available for Research Collaborations & Consulting</h3>
+  <div>
+    <a href="mailto:gowtham.sridher5@gmail.com">
+      <img src="https://img.shields.io/badge/Email-112d4e?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email"/>
     </a>
-    <a href="https://www.linkedin.com/in/gowthamsridher" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    <a href="https://www.linkedin.com/in/gowtham-sridher/">
+      <img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
     </a>
-    <a href="https://www.gowthamsridhar.com/" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/Portfolio-b17a50?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=20" alt="Portfolio" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    <a href="https://www.gowthamsridhar.com/">
+      <img src="https://img.shields.io/badge/Portfolio-b17a50?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=20" alt="Portfolio"/>
     </a>
-    <a href="https://github.com/ALIENvsROBOT" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/ALIENvsROBOT-bf1922?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    <a href="https://github.com/ALIENvsROBOT">
+      <img src="https://img.shields.io/badge/ALIENvsROBOT-bf1922?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
     </a>
   </div>
-  
-  <p style="color:#f7e8d3; font-family:'Montserrat', sans-serif; font-size:15px; line-height:1.6; max-width:800px; margin:15px auto;">
-    <span style="font-family:'Orbitron', sans-serif; color:#00cfc8; font-size:18px; letter-spacing:1px;">"Earth isn't beginning and sky isn't end."</span><br><br>
-    Interested in collaborative research projects on <strong style="color:#ffc93c;">embodied interaction</strong>, 
-    <strong style="color:#ffc93c;">multimodal interfaces</strong>, or 
-    <strong style="color:#ffc93c;">human-AI cooperation</strong>? Let's discuss how we can shape tomorrow's technology together.
-  </p>
 
-  <div style="background:rgba(0,0,0,0.15); padding:15px; border-radius:10px; margin-top:15px;">
-    <p style="color:#f7e8d3; font-family:'Montserrat', sans-serif; margin:0;">
-      <span style="color:#00cfc8; font-weight:600;">📅 Office Hours:</span> Mon-Thu 10:00-16:00 CET
-      &nbsp;|&nbsp;
-      <span style="color:#00cfc8; font-weight:600;">📍 Location:</span> Vienna, Austria
-      &nbsp;|&nbsp;
-      <span style="color:#00cfc8; font-weight:600;">🗣️ Languages:</span> Tamil, English, German
+<div align="center" style="font-family: 'Playfair Display', Georgia, serif; font-size: 18px; color: #333;">
+	<p>
+		<b><span style="font-family: 'Arial Black', Gadget, sans-serif; color: #137dc5;">"Earth isn't beginning and sky isn't end."</span></b>
+	</p>
+	<p>
+		Interested in pioneering collaborative research in <b>embodied interaction</b>, <b>multimodal interfaces</b>, or <b>human-AI symbiosis</b>? Let's connect and sculpt the future of technology.
+	</p>
+</div>
+  <div>
+    <p>
+      📍 Location: Vienna, Austria&nbsp;|&nbsp;
+      🗣️ Languages: Tamil, English, German
     </p>
   </div>
 </div>
 
-<div align="center" style="margin:25px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
-</div>
-
-<!-- Interactive 3D HCI Element -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" style="border-radius:10px; margin:20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200" alt="Animated Element">
 </div>
 
-<div align="center" style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); padding:20px; border-radius:10px; margin:20px auto; max-width:900px; box-shadow:0 10px 20px rgba(0,0,0,0.2);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=800&height=80&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" style="border-radius:8px;"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=800&height=80&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG">
 </div>
 
 <!-- Final animated footer -->
