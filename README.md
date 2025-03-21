@@ -76,15 +76,16 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   <br><br>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&fontSize=20&lineCount=2&theme=nord_dark&line1=unity,Unity,137dc5;python,Python,00cfc8;react,React,112d4e;&line2=c%2B%2B,C%2B%2B,bf1922;ros,ROS,b17a50;arduino,Arduino,ffc93c;" alt="Tech Stack" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&fontSize=20&lineCount=2&theme=nord_dark&line1=unity,Unity,137dc5;python,Python,00cfc8;unreal,Unreal,112d4e;&line2=c%2B%2B,C%2B%2B,bf1922;ros,ROS,b17a50;tensorflow,TensorFlow,ffc93c;" alt="Tech Stack" />
 </div>
 
-<!-- New animated icons for technologies -->
+<!-- Replace with relevant tech icons based on skills -->
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
 </div>
 
 ## <span style="color:#00cfc8">🎓 Education & Background</span>
@@ -94,12 +95,13 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" alt="Education">
 </div>
 
-- **Master's in Human-Computer Interaction** (Universität Salzburg & Fachhochschule Salzburg)
-  - Thesis: <span style="color:#b17a50">_"Embodied Interaction Paradigms for Mixed Reality Environments"_</span>
-  - Specialized in tangible interfaces and spatial computing
-- **Bachelor's in Mechatronics Engineering** (Robotics) from Hindustan University
+- **Master of Science in Human-Computer Interaction** (Joint Degree)
+  - **Paris Lodron Universität Salzburg & Fachhochschule Salzburg** (September 2022 - February 2025)
+  - Focus on tangible interfaces and spatial computing
+ 
+- **Bachelor of Technology in Mechatronics Engineering** (Robotics) from Hindustan University (July 2017 - April 2021)
   - Specialized in robotic systems, control theory, and human-machine interfaces
-  - Senior project: <span style="color:#b17a50">Gesture-controlled robotic arm with haptic feedback system</span>
+  - Senior project: <span style="color:#b17a50">EMG-Based Control of a 5 DOF Robotic Manipulator</span>
 
 <!-- New animated divider -->
 <div align="center">
@@ -117,23 +119,23 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 10px;">
     <tr>
       <td align="center" bgcolor="#112d4e" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#fce38a">Human-Centered Design</b><br>
+        <b style="color:#fce38a">Interaction Design</b><br>
         <span style="color:#f7e8d3">
+        Human Computer Interaction<br>
         UX Research<br>
-        Interaction Design<br>
-        Prototyping<br>
-        Information Architecture<br>
-        Mental Models
+        Natural User Interface<br>
+        Tangible User Interface (TUI)<br>
+        User Interface Design
         </span>
       </td>
       <td align="center" bgcolor="#137dc5" style="border-radius:8px; padding:10px; border: 1px solid #112d4e">
-        <b style="color:#f7e8d3">Interaction Technologies</b><br>
+        <b style="color:#f7e8d3">AI & Machine Learning</b><br>
         <span style="color:#f7e8d3">
-        XR (VR/AR/MR)<br>
-        Computer Vision<br>
-        Tangible Interfaces<br>
-        LLMs & AI Systems<br>
-        Robotics (ROS)
+        Large Language Models (LLM)<br>
+        TensorFlow<br>
+        Deep Learning<br>
+        Neural Networks<br>
+        AI Inferencing
         </span>
       </td>
       <td align="center" bgcolor="#b17a50" style="border-radius:8px; padding:10px; border: 1px solid #c99383">
@@ -141,23 +143,42 @@ I explore how humans interact with emerging technologies to create intuitive, ac
         <span style="color:#f7e8d3">
         Python<br>
         C/C++<br>
-        Unity/Unreal<br>
-        Hardware Prototyping<br>
-        Linux/Git
+        Unity & Unreal Engine<br>
+        Linux<br>
+        OpenCV
         </span>
       </td>
       <td align="center" bgcolor="#00cfc8" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <b style="color:#112d4e">Research Methods</b><br>
+        <b style="color:#112d4e">Robotics & Systems</b><br>
         <span style="color:#112d4e">
-        User Studies<br>
-        Eye Tracking<br>
-        Qualitative Analysis<br>
-        Mixed Methods Research<br>
-        Ethnography
+        Robot Operating System (ROS)<br>
+        Human-Robot Interaction<br>
+        SOLIDWORKS<br>
+        Hardware Prototyping<br>
+        Computer Vision
         </span>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <div style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); margin:15px auto; padding:15px; border-radius:10px; max-width:800px;">
+    <h3 style="font-family:'Orbitron', sans-serif; color:#f7e8d3; margin:5px; letter-spacing:1.5px;">Other Skills & Expertise</h3>
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; padding:10px;">
+      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Automation</span>
+      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">n8n</span>
+      <span style="background:#b17a50; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Brain-computer Interfaces</span>
+      <span style="background:#112d4e; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Virtual Reality (VR)</span>
+      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Data Science</span>
+      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Intelligent Systems</span>
+      <span style="background:#137dc5; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">webots</span>
+      <span style="background:#b17a50; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Leadership</span>
+      <span style="background:#112d4e; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">PLC Ladder Logic</span>
+      <span style="background:#00cfc8; color:#112d4e; padding:5px 10px; border-radius:5px; font-weight:500;">Technological Innovation</span>
+      <span style="background:#bf1922; color:#f7e8d3; padding:5px 10px; border-radius:5px; font-weight:500;">Entrepreneurship</span>
+    </div>
+  </div>
 </div>
 
 <!-- New animated robot -->
@@ -172,75 +193,89 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="100" alt="Work">
 </div>
 
+<details open>
+  <summary style="color:#137dc5; cursor:pointer"><b>🧪 AIT Austrian Institute of Technology GmbH</b> - Junior Scientist (Oct 2023 - Present)</summary>
+  <br>
+  <div style="padding-left:20px; border-left:3px solid #137dc5;">
+    <p style="color:#f7e8d3; background:#112d4e; padding:10px; border-radius:5px;">"Have you ever wondered how future technology would look like? Stop wondering, together let's make it happen."</p>
+    <ul>
+      <li>Creating XR prototypes for Reality User Interface (RUI) with gaze integration</li>
+      <li>Setting up and optimizing LLMs locally on the server</li>
+      <li>Hardware prototyping of innovative interaction systems</li>
+      <li>Research and development at the Center for Technology Experience</li>
+    </ul>
+  </div>
+</details>
+
 <details>
-  <summary style="color:#137dc5; cursor:pointer"><b>🧪 AIT Austrian Institute of Technology (Vienna)</b> - HCI Researcher & Junior Scientist (Oct 2023 - Present)</summary>
+  <summary style="color:#137dc5; cursor:pointer"><b>🔍 Salzburg Research</b> - Junior Researcher (Apr 2022 - May 2023)</summary>
   <br>
   <ul>
-    <li>Leading design and development of next-generation Reality User Interfaces (RUIs)</li>
-    <li>Conducting user research on multimodal interaction paradigms with gaze integration</li>
-    <li>Implementing embodied interaction prototypes for spatial computing applications</li>
-    <li>Building LLM-powered interactive systems for human-AI collaboration research</li>
+    <li>Improved navigation systems for autonomous robots</li>
+    <li>Developed overhead camera navigation for ARTI Chasi robot</li>
+    <li>Implemented AruCo marker detection and go-to-goal functionality</li>
+    <li>Created collision avoidance systems for Franka Panda robotic arm</li>
+    <li>Updated and modified codegen of robxtask platform</li>
   </ul>
 </details>
 
 <details>
-  <summary style="color:#137dc5; cursor:pointer"><b>🔍 Salzburg Research</b> - Human-Robot Interaction Researcher (Apr 2022 - May 2023)</summary>
+  <summary style="color:#137dc5; cursor:pointer"><b>🤖 e-Yantra, IIT Bombay</b> - Research Intern (May 2021 - Jul 2021)</summary>
   <br>
   <ul>
-    <li>Designed intuitive interfaces between users and autonomous robotic systems</li>
-    <li>Developed computer vision solutions for ARTI Chasi robot perception</li>
-    <li>Created interaction models for AruCo marker-based communication with Franka Panda</li>
-    <li>Implemented user-centered safety protocols for human-robot collaboration</li>
-  </ul>
-</details>
-
-<details>
-  <summary style="color:#137dc5; cursor:pointer"><b>🤖 e-Yantra, IIT Bombay</b> - Interactive Robotics Intern (May 2021 - Jul 2021)</summary>
-  <br>
-  <ul>
-    <li>Designed user interfaces for robot soccer simulation and control</li>
-    <li>Implemented interactive visualization tools for robot communication</li>
-    <li>Created accessible control systems for multi-agent robotic teams</li>
+    <li>Designed and developed Robot Soccer project using webots and ROS</li>
+    <li>Implemented object tracking, image processing, and multi-robot communication</li>
+    <li>Created path planning and localization algorithms for autonomous robots</li>
+    <li>Conducted a novel experimental design study on seawater purifier using activated carbon</li>
   </ul>
 </details>
 
 <!-- New animated publication icon -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Publications">
+  <img src="https://user-images.githubusercontent.com/74038190/235234567-animated-book.gif" width="300" alt="Publications Icon">
 </div>
 
 ## <span style="color:#ffc93c">📚 Publications & Projects</span>
 
 <div align="center">
-  <!-- New animated publication element -->
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300">
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" bgcolor="#112d4e" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <span style="color:#facf39">🏆</span> <b style="color:#f7e8d3">Best Paper Award</b><br><span style="color:#00cfc8">"Novel Interaction Techniques for Robotic Systems" (IVCRAISE 2020)</span>
+        <span style="color:#facf39">🏆</span> <b style="color:#f7e8d3">Best Paper Award IVCRAISE 2020</b><br><span style="color:#00cfc8">"EMG-Based Control of a 5 DOF Robotic Manipulator"</span>
       </td>
       <td align="center" bgcolor="#137dc5" style="border-radius:8px; padding:10px; border: 1px solid #112d4e">
-        <span style="color:#fce38a">🧠</span> <b style="color:#f7e8d3">EMG-Based Interactions</b><br><span style="color:#f7e8d3">Natural control systems for robotic manipulators</span>
+        <span style="color:#fce38a">🏭</span> <b style="color:#f7e8d3">Industry 4.0 Research</b><br><span style="color:#f7e8d3">"Dynamic Dashboard and Mail Update for Robotic System in Industry 4.0"</span>
       </td>
     </tr>
     <tr>
       <td align="center" bgcolor="#b17a50" style="border-radius:8px; padding:10px; border: 1px solid #c99383">
-        <span style="color:#fce38a">📊</span> <b style="color:#f7e8d3">Tangible Dashboard Interfaces</b><br><span style="color:#f7e8d3">Industrial automation visualization in Industry 4.0</span>
+        <span style="color:#fce38a">🤖</span> <b style="color:#f7e8d3">Autonomous Robotics</b><br><span style="color:#f7e8d3">"Simulation of Autonomous Multifunctional Mobile Robot using Machine Vision"</span>
       </td>
       <td align="center" bgcolor="#00cfc8" style="border-radius:8px; padding:10px; border: 1px solid #137dc5">
-        <span style="color:#112d4e">🗺️</span> <b style="color:#112d4e">Multimodal Exploration System</b><br><span style="color:#112d4e">Human-centered robotic navigation using tri-layered mapping</span>
+        <span style="color:#112d4e">🗺️</span> <b style="color:#112d4e">Exploration Systems</b><br><span style="color:#112d4e">"Autonomous Robotic Exploration and Navigation System using Trilayered Mapping and Geometrical Path Planning Techniques"</span>
       </td>
     </tr>
   </table>
 </div>
 
+<div align="center">
+  <div style="background-color:#112d4e; padding:15px; border-radius:10px; margin:20px 0; border: 1px solid #137dc5; max-width:800px;">
+    <h3 style="color:#00cfc8; font-family:'Orbitron', sans-serif;">🎓 Certifications & Specializations</h3>
+    <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:15px 0;">
+      <span style="background:#137dc5; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">A Complete Reinforcement Learning System (Capstone)</span>
+      <span style="background:#b17a50; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">AI for Medicine Specialization</span>
+      <span style="background:#00cfc8; color:#112d4e; padding:8px 12px; border-radius:5px; font-size:14px;">Self-Driving Cars Specialization</span>
+      <span style="background:#bf1922; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px;">Mind of the Universe - Robots in Society</span>
+      <span style="background:#112d4e; color:#f7e8d3; padding:8px 12px; border-radius:5px; font-size:14px; border:1px solid #137dc5;">Sports and Society</span>
+    </div>
+    
+
+
 <!-- New animated GitHub icon -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122039-b1bbbdd4-4a6b-4197-9f85-6a9f698c56e8.png" width="100" alt="GitHub">
+  <img src="https://github.com/ALIENvsROBOT/assets/blob/main/github-icon.gif?raw=true" width="100" alt="GitHub">
 </div>
+
 
 ## <span style="color:#137dc5">💻 GitHub Contributions as ALIENvsROBOT</span>
 
@@ -360,15 +395,10 @@ I explore how humans interact with emerging technologies to create intuitive, ac
     <a href="https://github.com/ALIENvsROBOT" style="text-decoration:none; transition:all 0.3s ease;">
       <img src="https://img.shields.io/badge/ALIENvsROBOT-bf1922?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=YourGoogleScholarID" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/Google_Scholar-00cfc8?style=for-the-badge&logo=google-scholar&logoColor=white&logoWidth=20" alt="Google Scholar" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
-    </a>
-    <a href="https://orcid.org/0000-0000-0000-0000" style="text-decoration:none; transition:all 0.3s ease;">
-      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&logoWidth=20" alt="ORCID" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
-    </a>
   </div>
   
   <p style="color:#f7e8d3; font-family:'Montserrat', sans-serif; font-size:15px; line-height:1.6; max-width:800px; margin:15px auto;">
+    <span style="font-family:'Orbitron', sans-serif; color:#00cfc8; font-size:18px; letter-spacing:1px;">"Earth isn't beginning and sky isn't end."</span><br><br>
     Interested in collaborative research projects on <strong style="color:#ffc93c;">embodied interaction</strong>, 
     <strong style="color:#ffc93c;">multimodal interfaces</strong>, or 
     <strong style="color:#ffc93c;">human-AI cooperation</strong>? Let's discuss how we can shape tomorrow's technology together.
@@ -380,7 +410,7 @@ I explore how humans interact with emerging technologies to create intuitive, ac
       &nbsp;|&nbsp;
       <span style="color:#00cfc8; font-weight:600;">📍 Location:</span> Vienna, Austria
       &nbsp;|&nbsp;
-      <span style="color:#00cfc8; font-weight:600;">🗣️ Languages:</span> English, German
+      <span style="color:#00cfc8; font-weight:600;">🗣️ Languages:</span> Tamil, English, German
     </p>
   </div>
 </div>
