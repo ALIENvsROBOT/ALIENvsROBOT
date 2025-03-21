@@ -390,20 +390,18 @@
 
 <div align="center" style="font-family: 'Playfair Display', Georgia, serif; font-size: 18px; color: #333;">
 	<p>
+  <br>
 		<b><span style="font-family: 'Arial Black', Gadget, sans-serif; color: #137dc5;">"Earth isn't beginning and sky isn't end."</span></b>
-	</p>
+	</p><br>
 	<p>
 		Interested in pioneering collaborative research in <b>embodied interaction</b>, <b>multimodal interfaces</b>, or <b>human-AI symbiosis</b>? Let's connect and sculpt the future of technology.
-	</p>
+	</p><br>
+  
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Location-Vienna,%20Austria-00cfc8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Languages-Tamil%20·%20English%20·%20German-137dc5?style=for-the-badge&logo=translate&logoColor=white" alt="Languages"/></a>
 </div>
-  <div>
-    <p>
-      📍 Location: Vienna, Austria&nbsp;|&nbsp;
-      🗣️ Languages: Tamil, English, German
-    </p>
-  </div>
-</div>
-
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
