@@ -232,46 +232,11 @@
   </ul>
 </details>
 
+
 <div align="center">
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
 </div>
 
-
-## 📚 Publications & Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#112d4e">
-        <span>🏆</span> <b>Best Paper Award IVCRAISE 2020</b><br><span>"EMG-Based Control of a 5 DOF Robotic Manipulator"</span>
-      </td>
-      <td align="center" bgcolor="#137dc5">
-        <span>🏭</span> <b>Industry 4.0 Research</b><br><span>"Dynamic Dashboard and Mail Update for Robotic System in Industry 4.0"</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" bgcolor="#b17a50">
-        <span>🤖</span> <b>Autonomous Robotics</b><br><span>"Simulation of Autonomous Multifunctional Mobile Robot using Machine Vision"</span>
-      </td>
-      <td align="center" bgcolor="#00cfc8">
-        <span>🗺️</span> <b>Exploration Systems</b><br><span>"Autonomous Robotic Exploration and Navigation System using Trilayered Mapping and Geometrical Path Planning Techniques"</span>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <div>
-    <h3>🎓 Certifications & Specializations</h3>
-    <div>
-      <span>A Complete Reinforcement Learning System (Capstone)</span>
-      <span>AI for Medicine Specialization</span>
-      <span>Self-Driving Cars Specialization</span>
-      <span>Mind of the Universe - Robots in Society</span>
-      <span>Sports and Society</span>
-    </div>
-  </div>
-</div>
 
 
 ## 💻 GitHub Contributions as ALIENvsROBOT
