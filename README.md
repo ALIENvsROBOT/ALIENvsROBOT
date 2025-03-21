@@ -374,9 +374,6 @@
 <div align="center">
   <h3>Available for Research Collaborations & Consulting</h3>
   <div>
-    <a href="mailto:gowtham.sridher5@gmail.com">
-      <img src="https://img.shields.io/badge/Email-112d4e?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email"/>
-    </a>
     <a href="https://www.linkedin.com/in/gowtham-sridher/">
       <img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
     </a>
