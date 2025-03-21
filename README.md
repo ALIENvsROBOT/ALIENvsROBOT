@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=40&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&height=70&lines=ALIEN+vs+ROBOT" alt="Gowtham Sridhar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=40&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&height=70&lines=Gowtham+Sridhar" alt="Gowtham Sridhar" />
   <h3><span style="color:#9A9A9A">Human-Computer Interaction Specialist</span></h3>
   <p><i>"Designing tomorrow's interactions at the intersection of humans and technology."</i></p>
 </div>
