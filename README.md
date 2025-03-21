@@ -17,7 +17,7 @@
 
 <!-- New animated divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
 
 <div align="center" style="font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-size: 24px;">
@@ -26,7 +26,7 @@
 
 <!-- New animated divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
 
 ## 🧠 Human-Computer Interaction Specialist
@@ -76,6 +76,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="120" alt="Research">
 </div>
 
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
+</div>
+
+
 ### 🔬 HCI Research Focus Areas
 
 - **Multimodal Interactive Systems** - Reality User Interfaces, Gaze & Gesture Integration
@@ -87,8 +92,11 @@
 
 <!-- New animated tech stack element -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
+</div>
   <br><br>
+
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&fontSize=20&lineCount=2&theme=nord_dark&line1=unity,Unity,137dc5;python,Python,00cfc8;unreal,Unreal,112d4e;&line2=c%2B%2B,C%2B%2B,bf1922;ros,ROS,b17a50;tensorflow,TensorFlow,ffc93c;" alt="Tech Stack" />
 </div>
 
@@ -99,6 +107,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="65" height="65" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS" width="65" height="65" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="65" height="65" />
+</div>
+
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
 
 ## 🎓 Education & Background
@@ -118,10 +144,10 @@
 
 <!-- New animated divider -->
 <div align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
 
-## 🛠️ Technical Expertise
+## 🛠️ Skills & Expertise
 
 <!-- New animated technical icon -->
 <div align="center">
@@ -129,8 +155,6 @@
   
 </div>
 
-
-## 🛠️ Skills & Expertise
 
 ### Interaction Design
 <div align="center">
@@ -187,6 +211,9 @@
 	<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
+</div>
 
 ## 🔬 Professional Experience
 
@@ -209,7 +236,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary><b>🔍 Salzburg Research</b> - Junior Researcher (Apr 2022 - May 2023)</summary>
   <br>
   <ul>
@@ -221,7 +248,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>🤖 e-Yantra, IIT Bombay</b> - Research Intern (May 2021 - Jul 2021)</summary>
   <br>
   <ul>
@@ -237,7 +264,9 @@
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="500">
 </div>
 
-
+<div align="center">
+	<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
+</div>
 
 ## 💻 GitHub Contributions as ALIENvsROBOT
 
@@ -288,10 +317,12 @@
   </div>
 </div>
 
+
 <!-- New animated divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
+
 
 ## 🧩 HCI Philosophy & Approach
 
@@ -329,6 +360,10 @@
 
 <div align="center">
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="300">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
 
 ## 🌐 Professional Connections
@@ -383,5 +418,5 @@
 
 <!-- Final animated footer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" height="3">
 </div>
