@@ -333,26 +333,73 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8704f-2dca-4d4d-9e36-5b7c4d1d6360.gif" width="300">
 </div>
 
-## <span style="color:#bf1922">🌐 Let's Connect</span>
+## <span style="color:#bf1922; font-family:'Montserrat', sans-serif; font-weight:700; letter-spacing:1.5px; text-shadow:1px 1px 3px rgba(0,0,0,0.3);">🌐 Professional Connections</span>
 
+<!-- 3D HCI Visualization Element -->
 <div align="center">
-  <a href="mailto:gowtham.sridher5@gmail.com"><img src="https://img.shields.io/badge/Email-112d4e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/gowthamsridher"><img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.gowthamsridhar.com/"><img src="https://img.shields.io/badge/Portfolio-b17a50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/ALIENvsROBOT"><img src="https://img.shields.io/badge/ALIENvsROBOT-bf1922?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=flat-square" alt="Profile views"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ALIENvsROBOT/3D-assets/blob/main/hci-interface-dark.gif?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ALIENvsROBOT/3D-assets/blob/main/hci-interface-light.gif?raw=true">
+    <img src="https://raw.githubusercontent.com/ScienceBoy/3D-UI-System-ThreeJS/master/images/3dui_demo.gif" width="650" alt="3D Human-Computer Interaction Interface" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);">
+  </picture>
 </div>
 
-<!-- New animated waving hand -->
+<div align="center" style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); margin:20px auto; padding:25px; border-radius:15px; box-shadow:0 10px 20px rgba(0,0,0,0.2); max-width:900px;">
+  <h3 style="font-family:'Orbitron', sans-serif; color:#f7e8d3; margin-bottom:20px; letter-spacing:2px; font-weight:600;">Available for Research Collaborations & Consulting</h3>
+  
+  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px; margin-bottom:15px;">
+    <a href="mailto:gowtham.sridher5@gmail.com" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/Email-112d4e?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15); transform:translateY(0); transition:transform 0.2s;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='translateY(0)'"/>
+    </a>
+    <a href="https://www.linkedin.com/in/gowthamsridher" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/LinkedIn-137dc5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    </a>
+    <a href="https://www.gowthamsridhar.com/" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/Portfolio-b17a50?style=for-the-badge&logo=About.me&logoColor=white&logoWidth=20" alt="Portfolio" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    </a>
+    <a href="https://github.com/ALIENvsROBOT" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/ALIENvsROBOT-bf1922?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    </a>
+    <a href="https://scholar.google.com/citations?user=YourGoogleScholarID" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/Google_Scholar-00cfc8?style=for-the-badge&logo=google-scholar&logoColor=white&logoWidth=20" alt="Google Scholar" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    </a>
+    <a href="https://orcid.org/0000-0000-0000-0000" style="text-decoration:none; transition:all 0.3s ease;">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&logoWidth=20" alt="ORCID" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+    </a>
+  </div>
+  
+  <p style="color:#f7e8d3; font-family:'Montserrat', sans-serif; font-size:15px; line-height:1.6; max-width:800px; margin:15px auto;">
+    Interested in collaborative research projects on <strong style="color:#ffc93c;">embodied interaction</strong>, 
+    <strong style="color:#ffc93c;">multimodal interfaces</strong>, or 
+    <strong style="color:#ffc93c;">human-AI cooperation</strong>? Let's discuss how we can shape tomorrow's technology together.
+  </p>
+
+  <div style="background:rgba(0,0,0,0.15); padding:15px; border-radius:10px; margin-top:15px;">
+    <p style="color:#f7e8d3; font-family:'Montserrat', sans-serif; margin:0;">
+      <span style="color:#00cfc8; font-weight:600;">📅 Office Hours:</span> Mon-Thu 10:00-16:00 CET
+      &nbsp;|&nbsp;
+      <span style="color:#00cfc8; font-weight:600;">📍 Location:</span> Vienna, Austria
+      &nbsp;|&nbsp;
+      <span style="color:#00cfc8; font-weight:600;">🗣️ Languages:</span> English, German
+    </p>
+  </div>
+</div>
+
+<div align="center" style="margin:25px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" style="border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.15);"/>
+</div>
+
+<!-- Interactive 3D HCI Element -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" style="border-radius:10px; margin:20px 0;">
+</div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=800&height=60&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" />
+<div align="center" style="background:linear-gradient(145deg, #112d4e 0%, #137dc5 100%); padding:20px; border-radius:10px; margin:20px auto; max-width:900px; box-shadow:0 10px 20px rgba(0,0,0,0.2);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=800&height=80&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" style="border-radius:8px;"/>
 </div>
 
 <!-- Final animated footer -->
