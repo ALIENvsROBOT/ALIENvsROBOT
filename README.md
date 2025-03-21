@@ -9,13 +9,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Location-Vienna,%20Austria-00cfc8?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/></a> 
 </div>
 
-
+<!-- New animated banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Technology Banner">
 </div>
 
 <div align="center"><i style="color:#c99383">"Designing tomorrow's interactions at the intersection of humans and technology."</i></div>
 
+<!-- New animated divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
@@ -23,6 +24,11 @@
 ## <span style="color:#bf1922">🧠 Human-Computer Interaction Specialist</span>
 
 I explore how humans interact with emerging technologies to create intuitive, accessible, and meaningful experiences. My research bridges the gap between people and complex systems through innovative interaction design.
+
+<!-- New animated element -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+</div>
 
 <div align="center">
   <table>
@@ -53,6 +59,11 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </table>
 </div>
 
+<!-- New animated element for research areas -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="120" alt="Research">
+</div>
+
 ### <span style="color:#137dc5">🔬 HCI Research Focus Areas</span>
 - **Multimodal Interactive Systems** - Reality User Interfaces, Gaze & Gesture Integration
 - **Tangible & Embodied Interaction** - Physical Computing, Spatial Interfaces
@@ -61,11 +72,27 @@ I explore how humans interact with emerging technologies to create intuitive, ac
 - **Accessible Computing** - Inclusive Design, Universal Accessibility Standards
 - **Embodied Cognition** - Movement-Based Interfaces, Kinesthetic Interaction
 
+<!-- New animated tech stack element -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <br><br>
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&fontSize=20&lineCount=2&theme=nord_dark&line1=unity,Unity,137dc5;python,Python,00cfc8;react,React,112d4e;&line2=c%2B%2B,C%2B%2B,bf1922;ros,ROS,b17a50;arduino,Arduino,ffc93c;" alt="Tech Stack" />
 </div>
 
+<!-- New animated icons for technologies -->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="65" height="65" />
+</div>
+
 ## <span style="color:#00cfc8">🎓 Education & Background</span>
+
+<!-- New animated education icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" alt="Education">
+</div>
 
 - **Master's in Human-Computer Interaction** (Universität Salzburg & Fachhochschule Salzburg)
   - Thesis: <span style="color:#b17a50">_"Embodied Interaction Paradigms for Mixed Reality Environments"_</span>
@@ -74,7 +101,17 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   - Specialized in robotic systems, control theory, and human-machine interfaces
   - Senior project: <span style="color:#b17a50">Gesture-controlled robotic arm with haptic feedback system</span>
 
+<!-- New animated divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-603in1cfb-edad-4e33-a676-f2a7d49252f9.gif" width="600">
+</div>
+
 ## <span style="color:#ffc93c">🛠️ Technical Expertise</span>
+
+<!-- New animated technical icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="400">
+</div>
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: separate; border-spacing: 10px;">
@@ -123,7 +160,17 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </table>
 </div>
 
+<!-- New animated robot -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+</div>
+
 ## <span style="color:#bf1922">🔬 Professional Experience</span>
+
+<!-- New animated work icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="100" alt="Work">
+</div>
 
 <details>
   <summary style="color:#137dc5; cursor:pointer"><b>🧪 AIT Austrian Institute of Technology (Vienna)</b> - HCI Researcher & Junior Scientist (Oct 2023 - Present)</summary>
@@ -157,7 +204,17 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </ul>
 </details>
 
+<!-- New animated publication icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" alt="Publications">
+</div>
+
 ## <span style="color:#ffc93c">📚 Publications & Projects</span>
+
+<div align="center">
+  <!-- New animated publication element -->
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="300">
+</div>
 
 <div align="center">
   <table>
@@ -180,6 +237,11 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </table>
 </div>
 
+<!-- New animated GitHub icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122039-b1bbbdd4-4a6b-4197-9f85-6a9f698c56e8.png" width="100" alt="GitHub">
+</div>
+
 ## <span style="color:#137dc5">💻 GitHub Contributions as ALIENvsROBOT</span>
 
 <div align="center">
@@ -187,6 +249,9 @@ I explore how humans interact with emerging technologies to create intuitive, ac
     <h3 style="color:#00cfc8">🔒 Active in 15+ Private Repositories</h3>
     <p style="color:#f7e8d3">Contributing to numerous private projects spanning HCI research, prototype development, and experimental interaction systems</p>
   </div>
+  
+  <!-- New animated code typing element -->
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
   
   <!-- Full contribution calendar (all time) -->
   <img src="https://ghchart.rshah.org/137dc5/ALIENvsROBOT" alt="ALIENvsROBOT's GitHub Contribution Chart" width="100%" />
@@ -226,7 +291,17 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </div>
 </div>
 
+<!-- New animated divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 ## <span style="color:#b17a50">🧩 HCI Philosophy & Approach</span>
+
+<!-- New animated brain/thinking icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6c1d-b258-409f-b84b-69b7e5d8b45f.gif" width="200">
+</div>
 
 <div align="center">
   <table>
@@ -253,6 +328,11 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   </table>
 </div>
 
+<!-- New animated connectivity element -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8704f-2dca-4d4d-9e36-5b7c4d1d6360.gif" width="300">
+</div>
+
 ## <span style="color:#bf1922">🌐 Let's Connect</span>
 
 <div align="center">
@@ -266,6 +346,16 @@ I explore how humans interact with emerging technologies to create intuitive, ac
   <img src="https://komarev.com/ghpvc/?username=ALIENvsROBOT&color=137dc5&style=flat-square" alt="Profile views"/>
 </div>
 
+<!-- New animated waving hand -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00cfc8&center=true&vCenter=true&width=800&height=60&lines=Human-Computer+Interaction+Specialist;Creating+intuitive+interfaces+for+complex+systems;Bridging+humans+and+technology;Mechatronics+Engineer+turned+HCI+Researcher" alt="Typing SVG" />
+</div>
+
+<!-- Final animated footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
