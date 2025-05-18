@@ -1,0 +1,21 @@
+# These are supported funding model platforms
+
+github: ALIENvsROBOT # Replace with your GitHub Sponsors username or organization name.
+                    # You can list up to 4 usernames/organizations, like [user1, user2]
+
+patreon: # Replace with a single Patreon username
+# open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name, e.g., npm/babel
+polar: # Replace with a single Polar username
+buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
+# thanks_dev: # Replace with a single thanks.dev username, e.g., u/gh/user1
+# community_bridge: # Replace with a single Community Bridge project-name, e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+# issuehunt: # Replace with a single IssueHunt username
+# otechie: # Replace with a single Otechie username
+
+custom: # Replace with up to 4 custom sponsorship URLs.
+        # Use quotes around URLs that contain colons (:)
+  - # https://www.paypal.me/yourusername
+  - # https://yourwebsite.com/donate
